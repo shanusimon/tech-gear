@@ -1,0 +1,27 @@
+body{
+    font-family: "Roboto";
+}
+header{
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #0a58ca;
+    background-color: white;
+    padding: 6px;
+}
+.nav-tabs{
+    border: none !important;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link{
+    border: none !important;
+    background-color: #0a58ca !important;
+    color: white !important;
+    padding-left: 15px;
+}
+.footer{
+
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
